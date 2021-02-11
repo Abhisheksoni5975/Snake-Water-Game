@@ -3,8 +3,8 @@ We are going to build snake water game using Python>
 
 # Read Me Template
 
-![Project Image](https://drive.google.com/file/d/1FnHq6L9bJMnL9dAV4Gjb7pjZvo1UvMYX/view?usp=sharing)
-
+![Project Image](<href=https://drive.google.com/file/d/1FnHq6L9bJMnL9dAV4Gjb7pjZvo1UvMYX/view?usp=sharing)
+![Name](https://drive.google.com/file/d/1FnHq6L9bJMnL9dAV4Gjb7pjZvo1UvMYX/view?usp=sharing)
 > This is a ReadMe template to help save you time and effort.
 
 ---
