@@ -12,6 +12,7 @@ Using simple Python Conditional statement and function concept we created this p
 #### Technologies
 
 - Python 3
+- Random library 
 
 [Back To The Top](#read-me-template)
 
